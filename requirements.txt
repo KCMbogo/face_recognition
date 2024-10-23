@@ -1,0 +1,16 @@
+matplotlib
+numpy
+pandas
+scipy
+torch
+torchaudio
+torchvision
+scikit-learn
+torchmetrics
+pathlib
+tqdm
+mlxtend
+
+opencv-python
+pyttsx3
+streamlit
